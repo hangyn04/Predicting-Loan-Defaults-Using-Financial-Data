@@ -1,6 +1,6 @@
 # Predicting-Loan-Defaults-Using-Financial-Data
 ## Objective:
-To develop a predictive model that identifies clients who are at risk of defaulting on their loans by leveraging macroeconomic indicators from the Federal Reserve Economic Data (FRED), utilizing Hadoop for data processing and feature engineering
+To develop a predictive model that identifies clients who are at risk of defaulting on their loans by leveraging macroeconomic indicators from the **[Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)**, utilizing Hadoop for data processing and feature engineering
 ## Description:
 This project aims to predict the likelihood of loan default for clients by incorporating macroeconomic data into the analysis. By using economic indicators such as unemployment rates, interest rates, and GDP growth, combined with client-specific financial data, the project will provide a comprehensive model for assessing loan risk. Hadoop will be used for processing and managing large datasets efficiently.
 ## Key Components
